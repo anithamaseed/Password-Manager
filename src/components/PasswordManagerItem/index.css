@@ -1,0 +1,28 @@
+.initial {
+  background-color: green;
+  padding: 25px;
+  border-radius: 45px;
+  display: flex;
+  align-items: center;
+  font-size: 24px;
+  font-weight: 700;
+  margin: 15px;
+}
+.list-item {
+  display: flex;
+  border: 1px solid #ffffff;
+  border-radius: 10px;
+  padding: 15px;
+  align-items: center;
+  width: 33%;
+  margin: 20px;
+  justify-content: space-between;
+}
+.del-btn {
+  background-color: #5763a5;
+  border: 0px solid;
+}
+.delete {
+  width: 45px;
+  height: 45px;
+}
